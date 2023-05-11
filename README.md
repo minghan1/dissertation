@@ -2,10 +2,13 @@
 my dissertation
 
 
-completed:
-#abstract
-#contents
-#introduction
+#completed:
 
-uncompleted
-#
+abstract
+
+contents
+
+introduction
+
+#uncompleted
+
